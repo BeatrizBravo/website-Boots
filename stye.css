@@ -1,3 +1,11 @@
-body{
-background-color: green;
+body
+{
+    background-image: url("https://robclarke.com/wp-content/uploads/2022/08/boost_3.jpg");
+    background-repeat: repeat-x;
+    background-color: purple;
+    background-size: cover;
+    display: flex;
+     justify-content: center;
+
 }
+
